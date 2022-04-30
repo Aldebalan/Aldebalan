@@ -9,19 +9,12 @@ Devops의 시대를 쫒아가기 위해 노력중인 병아리입니다.
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 
-
+<!--
 <img src="https://img.shields.io/badge/Amazom AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=black"> 아마존 웹서버 AWS
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=black"> 안드로이드 스튜디오
 <img src="https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=black"> 배틀넷
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=black"> 블렌더
-
-
-
-
-
-
-
-
+-->
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAldebalan%2Fjava-study&count_bg=%2379C83D&title_bg=%23555555&icon=strava.svg&icon_color=%23E7E7E7&title=visiter&edge_flat=false)](https://hits.seeyoufarm.com)

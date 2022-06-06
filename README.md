@@ -24,3 +24,5 @@ Devops의 시대를 쫒아가기 위해 노력중인 병아리입니다.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldebalan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ https://www.notion.so/Git-GitHub-302fe6a417f643e18bbdc4261893d999

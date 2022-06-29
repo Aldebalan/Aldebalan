@@ -17,8 +17,9 @@ Devops의 시대를 쫒아가기 위해 노력중인 병아리입니다.
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=black"> 블렌더
 -->
 
-<!--
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAldebalan%2Fjava-study&count_bg=%2379C83D&title_bg=%23555555&icon=strava.svg&icon_color=%23E7E7E7&title=visiter&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--
 위 코드는 방문자수 보여주는 코드
 -->
 

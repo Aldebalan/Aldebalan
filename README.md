@@ -27,3 +27,5 @@ Devops의 시대를 쫒아가기 위해 노력중인 병아리입니다.
 
 노션 
 https://www.notion.so/Git-GitHub-302fe6a417f643e18bbdc4261893d999
+
+<a href="https://opgc.me/#/users/Aldebalan" target="_blank"><img src="https://api.opgc.me/githubs/users/Aldebalan/tag/?theme=basic" /></a>
